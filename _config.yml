@@ -2,14 +2,14 @@
 highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
+permalink: /:title/
 
 # Setup
 title:            Insolor
 tagline:          'tagline'
 description:      'Тут будет описание'
-url:              https://insolor.github.io
-baseurl:          https://insolor.github.io
+url:
+baseurl: ""
 
 author:
   name:           'Insolor'
