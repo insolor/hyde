@@ -8,7 +8,7 @@ permalink: /:title/
 title:            Insolor
 tagline:          'tagline'
 description:      'Тут будет описание'
-url:
+url: /
 baseurl: /
 
 author:
