@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: ќбо мне
 ---
 
 <p class="message">
