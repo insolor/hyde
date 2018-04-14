@@ -10,7 +10,7 @@ title:            Insolor
 tagline:          'tagline'
 description:      'Тут будет описание'
 url:              https://insolor.github.io
-baseurl:          /
+baseurl:          https://insolor.github.io
 
 author:
   name:           'Insolor'
