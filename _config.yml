@@ -8,8 +8,8 @@ permalink: /:title/
 title:            Insolor
 tagline:          'tagline'
 description:      'Тут будет описание'
-url: /
-baseurl: /
+url: ""
+baseurl: ""
 
 author:
   name:           'Insolor'
