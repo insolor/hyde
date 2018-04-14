@@ -9,7 +9,7 @@ title:            Insolor
 tagline:          'tagline'
 description:      'Тут будет описание'
 url:
-baseurl: ""
+baseurl: /
 
 author:
   name:           'Insolor'
