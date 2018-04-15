@@ -8,8 +8,8 @@ permalink: /:title/
 title:            Insolor
 tagline:          # Описание в заголовке
 description:      'Тут будет описание'
-url: ""
-baseurl: https://insolor.github.io
+url: "https://insolor.github.io"
+baseurl: "https://insolor.github.io"
 
 author:
   name:           'Insolor'
@@ -27,3 +27,16 @@ disqus: insolor-github-io
 
 google_analytics: UA-34037335-12
 yandex_metrika: 48492119
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
