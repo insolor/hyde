@@ -31,7 +31,6 @@ yandex_metrika: 48492119
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # The plugin will automatically generate an Atom feed at /feed.xml
 
 # Exclude these files from your production _site
 exclude:
