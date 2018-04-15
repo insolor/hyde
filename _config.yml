@@ -6,7 +6,7 @@ permalink: /:title/
 
 # Setup
 title:            Insolor
-tagline:          'tagline'
+tagline:          # Описание в заголовке
 description:      'Тут будет описание'
 url: ""
 baseurl: https://insolor.github.io
