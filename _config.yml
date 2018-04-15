@@ -22,3 +22,7 @@ paginate:         5
 
 github:
   repo:
+
+disqus: insolor-github-io
+
+google_analytics: UA-34037335-12
