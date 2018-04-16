@@ -8,8 +8,8 @@ permalink: /:title/
 title:            Insolor
 tagline:          # Описание в заголовке
 description:      'Тут будет описание'
-url: "https://insolor.github.io"
-baseurl: "https://insolor.github.io"
+url: https://insolor.github.io
+baseurl: https://insolor.github.io
 
 author:
   name:           'Insolor'
