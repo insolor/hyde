@@ -21,17 +21,17 @@ title: Home
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">&lt;&lt; Назад</a>
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">&lt;&lt; РќР°Р·Р°Рґ</a>
   {% else %}
-    <span class="pagination-item older">&lt;&lt; Назад</span>
+    <span class="pagination-item older">&lt;&lt; РќР°Р·Р°Рґ</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Вперёд &gt;&gt;</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Р’РїРµСЂС‘Рґ &gt;&gt;</a>
     {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Вперёд &gt;&gt;</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Р’РїРµСЂС‘Рґ &gt;&gt;</a>
     {% endif %}
   {% else %}
-    <span class="pagination-item newer">Вперёд &gt;&gt;</span>
+    <span class="pagination-item newer">Р’РїРµСЂС‘Рґ &gt;&gt;</span>
   {% endif %}
 </div>
